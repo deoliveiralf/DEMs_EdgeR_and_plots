@@ -4,7 +4,7 @@
 # =============================================================================
 
 # Set working directory - MODIFY THIS PATH AS NEEDED
-setwd("C:/Users/Leandro/OneDrive - usp.br/LIGNINLAB/Projeto FAPESP CNPq - Setaria miRNAs/R analysis/DEMs - EdgeR")
+setwd("path/to/your/directory")
 
 # Source the main analysis module
 source("modules/main_analysis.R")
