@@ -24,7 +24,7 @@ source("modules/diagnostic_module.R")
 # =============================================================================
 
 # Set working directory - MODIFY THIS PATH
-setwd("C:/Users/Leandro/OneDrive - usp.br/LIGNINLAB/Projeto FAPESP CNPq - Setaria miRNAs/R analysis/DEMs - EdgeR")
+setwd("path/to/your/directory")
 
 # Analysis parameters
 params <- list(
